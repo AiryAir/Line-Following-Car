@@ -1,6 +1,6 @@
 # Line-Following-Car
 
-Code for Line Following Car made with:
+Parts:
 - Arduino Mega (powered by power bank)
 - SmartElex 15D Motor Driver
 - 12V 7Ah Battery
