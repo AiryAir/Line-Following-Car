@@ -11,7 +11,9 @@ The IR Sensors I used in the circuit diagrams arent the ones used in the project
 They look like this:
 <img src="https://robu.in/wp-content/uploads/2016/01/IR-sensor-Module-2.jpg" width="200">
 
-Connections:
+
+## Connections:
+
 ![Full Circuit Diagram](https://github.com/AiryAir/Line-Following-Car/blob/main/images/diagram_full.jpg)
 Full Diagram
 
