@@ -9,7 +9,7 @@ Parts:
 - IR Sensors x 2
 The IR Sensors I used in the circuit diagrams arent the ones used in the project. I used them since the connections are pretty much the same.
 They look like this:
-![IR Sensor Module](https://robu.in/wp-content/uploads/2016/01/IR-sensor-Module-2.jpg | width = 250)
+![IR Sensor Module](https://robu.in/wp-content/uploads/2016/01/IR-sensor-Module-2.jpg = 250x250)
 
 Connections:
 ![Full Circuit Diagram](https://github.com/AiryAir/Line-Following-Car/blob/main/images/diagram_full.jpg)
