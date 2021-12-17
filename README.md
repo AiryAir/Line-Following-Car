@@ -9,7 +9,7 @@
 - IR Sensors x 2
 The IR Sensors I used in the circuit diagrams arent the ones used in the project. I used them since the connections are pretty much the same.
 They look like this:
-<img src="https://robu.in/wp-content/uploads/2016/01/IR-sensor-Module-2.jpg" width="200">
+<img src="https://robu.in/wp-content/uploads/2016/01/IR-sensor-Module-2.jpg" width="200" align="centre">
 
 
 ## Connections:
