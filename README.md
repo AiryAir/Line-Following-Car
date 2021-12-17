@@ -14,14 +14,14 @@ They look like this:
 
 ## Connections:
 
+### Full Diagram
 ![Full Circuit Diagram](https://github.com/AiryAir/Line-Following-Car/blob/main/images/diagram_full.jpg)
-Full Diagram
 
+### IR Module Circuit Diagram
 ![IR Module Circuits](https://github.com/AiryAir/Line-Following-Car/blob/main/images/diagram_ir_module.jpg)
-IR Module Circuit Diagram
 
+### LED Connections
 ![LED Diagram](https://github.com/AiryAir/Line-Following-Car/blob/main/images/diagram_led.jpg)
-LED Connections
 
+### Motor Driver Connections
 ![Motor Driver](https://github.com/AiryAir/Line-Following-Car/blob/main/images/diagram_motor_driver.jpg)
-Motor Driver Connections
