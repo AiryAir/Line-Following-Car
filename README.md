@@ -14,7 +14,7 @@ They look like this:
 
 ## Connections:
 
-### Full Diagram
+### LED + IR Circuit Diagram
 ![Full Circuit Diagram](https://github.com/AiryAir/Line-Following-Car/blob/main/images/diagram_full.jpg)
 
 ### IR Module Circuit Diagram
@@ -25,3 +25,14 @@ They look like this:
 
 ### Motor Driver Connections
 ![Motor Driver](https://github.com/AiryAir/Line-Following-Car/blob/main/images/diagram_motor_driver.jpg)
+
+### IR Sensor Alignment
+<img src="https://github.com/AiryAir/Line-Following-Car/blob/main/images/ir_tape.jpg" width="300">
+
+## Instructions:
+
+Connect all the stuff as shown in the diagrams.
+Download the .ino file:
+https://github.com/AiryAir/Line-Following-Car/blob/main/line-following/line-following.ino
+
+Upload the code to your arduino.
