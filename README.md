@@ -1,8 +1,8 @@
 # Line-Following-Car
 
-### Parts:
+## Parts:
 - Arduino Mega (powered by power bank)
-- SmartElex 15D Motor Driver
+- Cytron MDD10A Motor Driver
 - 12V 7Ah Battery
 - 4 geared motors
 - RGBY LEDs (optional)
@@ -36,3 +36,6 @@ Download the .ino file:
 https://github.com/AiryAir/Line-Following-Car/blob/main/line-following/line-following.ino
 
 Upload the code to your arduino.
+You're ready to go.
+
+PS: You might have to do some trial error stuff to get the motor connections right.
