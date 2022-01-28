@@ -5,12 +5,12 @@ int read_right=0;
 int read_left=0;
 
 int pwm1 = 9; 
-int motor_r = 10; //right motors fwd
-int motor_l = 11; //left motors fwd
-int dir2 = 12;
+int motor_r = 10; //right motors fwd pwm2 pwm1
+int motor_l = 11; //left motors fwd dir1 pwm2
+int dir2 = 12; //dir1
 
-int gospeed = 80;
-int turnspeed = 120;
+int gospeed = 50;
+int turnspeed = 80;
 
 int r = 2;
 int g = 3;
